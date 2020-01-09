@@ -34,3 +34,19 @@
     padding: 4px 0 0 0;
     color: #999999;
 }
+
+.menubar {
+    width: 900px;
+    height: 46px;
+}
+
+ul.menu {
+    float: right;
+}
+
+ul.menu li {
+    float: left;
+    padding: 0 0 0 9px;
+    list-style: none;
+    margin: 1px 2px 0 0;
+}
