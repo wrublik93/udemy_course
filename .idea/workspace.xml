@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d63b1b17-7969-4522-aa3b-90bb0659b72e" name="Default Changelist" comment="" />
+    <list default="true" id="d63b1b17-7969-4522-aa3b-90bb0659b72e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kinomonster/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kinomonster/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +38,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WebStorm\Udemy\kinomonster\assets\img" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -59,7 +67,7 @@
       <updated>1578063496847</updated>
       <workItem from="1578063498024" duration="6726000" />
       <workItem from="1578594846643" duration="6798000" />
-      <workItem from="1578652784190" duration="1883000" />
+      <workItem from="1578652784190" duration="2991000" />
     </task>
     <servers />
   </component>
