@@ -3,6 +3,17 @@
     padding: 0;
 }
 
+body {
+    font-size: 1.2em;
+    background-color: #ffffff;
+    color: #555555;
+}
+
+p {
+    padding: 0 0 20px 0;
+    line-height: 1.7em;
+}
+
 input[type="text"], input[type="password"], input[type="search"] {
     color: #5d5d5d;
     width: 60%;
