@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d63b1b17-7969-4522-aa3b-90bb0659b72e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kinomonster/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/kinomonster/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kinomonster/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/kinomonster/show.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +70,7 @@
       <workItem from="1578594846643" duration="6798000" />
       <workItem from="1578652784190" duration="4668000" />
       <workItem from="1578910690353" duration="4809000" />
-      <workItem from="1578984030612" duration="3338000" />
+      <workItem from="1578984030612" duration="4467000" />
     </task>
     <servers />
   </component>
