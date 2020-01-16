@@ -4,6 +4,7 @@
     <list default="true" id="d63b1b17-7969-4522-aa3b-90bb0659b72e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kinomonster/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kinomonster/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kinomonster/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/kinomonster/films/interstellar.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WebStorm\Udemy\kinomonster\films" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WebStorm\Udemy\kinomonster\assets\img" />
     </key>
@@ -71,7 +75,7 @@
       <workItem from="1578910690353" duration="4809000" />
       <workItem from="1578984030612" duration="5127000" />
       <workItem from="1579081023133" duration="4366000" />
-      <workItem from="1579157643000" duration="3765000" />
+      <workItem from="1579157643000" duration="4421000" />
     </task>
     <servers />
   </component>
